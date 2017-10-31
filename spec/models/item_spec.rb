@@ -98,5 +98,5 @@ RSpec.describe Item do
 
 			expect(item).to respond_to(:category)
 		end
-	end
+	end 
 end
